@@ -1,5 +1,6 @@
 # iota-wp-jp
 IOTAのホワイトペーパーの日本語訳のリポジトリ.  
+(原著は[こちら](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf))  
 内容はBlockchainとはまた違うアイディアで(DAGを使って)DLTを考案したのでその理論的説明.  
 (実際の実装は安全策がとられた(コーディネーターという安全弁が付与された)実装になっている.)  
 DLTの名前は**The Tangle**.  
