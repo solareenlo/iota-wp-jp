@@ -10,8 +10,8 @@ DLTの名前は**The Tangle**.
 - 取引手数料無料.
 - 自分より前の2つのトランザクションに矛盾がないか確認し, 承認するだけが必須ルール.
 - あとはオプションのルールがあり, それに従うと後から来るトランザクションからの承認を受けやすくなる.
-- そうすることでナッシュ均衡を生み出すぞ！
-- あとは攻撃耐性色々工夫するぞ！
+- そうすることで不特定多数の参加者がいてもナッシュ均衡が発生するようにするぞ.(こちらの[論文](https://assets.ctfassets.net/r1dr6vzfxhev/2KfRHJKJW00kYcYkiuWaWk/342c5ccf54fd79993f2f33b9934a314f/Equilibria_in_the_Tangle.pdf))
+- あとは攻撃耐性を色々と工夫するぞ！
 
 ### The Tangleに関するその他の学術論文
 - https://www.iota.org/research/academic-papers
