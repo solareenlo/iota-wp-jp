@@ -1,7 +1,7 @@
 # iota-wp-jp
 IOTAのホワイトペーパーの日本語訳のリポジトリ.  
 (原著は[こちら](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf))  
-内容はBlockchainとはまた違うアイディアで(DAGを使って)DLTを考案したのでその理論的説明.  
+内容はBlockchainとはまた違うアイディアで(DAGを使って)DLTを考案したのでその大まかな理論的説明.  
 (実際の実装は安全策がとられた(コーディネーターという安全弁が付与された)実装になっている.)  
 DLTの名前は**The Tangle**.  
 
@@ -10,8 +10,8 @@ DLTの名前は**The Tangle**.
 - 取引手数料無料.
 - 自分より前の2つのトランザクションに矛盾がないか確認し, 承認するだけが必須ルール.
 - あとはオプションのルールがあり, それに従うと後から来るトランザクションからの承認を受けやすくなる.
-- そうすることで不特定多数の参加者がいてもナッシュ均衡が発生するようにするぞ.(こちらの[論文](https://assets.ctfassets.net/r1dr6vzfxhev/2KfRHJKJW00kYcYkiuWaWk/342c5ccf54fd79993f2f33b9934a314f/Equilibria_in_the_Tangle.pdf))
-- あとは攻撃耐性を色々と工夫するぞ！
+- そうすることで不特定多数の参加者がいてもナッシュ均衡が発生するようにする.(こちらの[論文](https://assets.ctfassets.net/r1dr6vzfxhev/2KfRHJKJW00kYcYkiuWaWk/342c5ccf54fd79993f2f33b9934a314f/Equilibria_in_the_Tangle.pdf))
+- あとは攻撃耐性も同時に色々と工夫するぞ！
 
 ### The Tangleに関するその他の学術論文
 - https://www.iota.org/research/academic-papers
@@ -42,12 +42,12 @@ DLTの名前は**The Tangle**.
 - https://blog.iota.org/the-tangle-an-illustrated-introduction-4d5eae6fe8d4 (図解パート1)
 
 ### 発行年月日
-- The Tangle ver.1.4.3 (2018年4月30日)
-- The Tangle ver.1.4.2 (2018年2月9日)
-- The Tangle ver.1.4.1 (2017年11月27日)
-- The Tangle ver.1.4 (2017年10月25日)
-- The Tangle ver.1.3 (2017年10月1日)
-- The Tangle ver.1.2 (2017年8月22日)
+- [The Tangle ver.1.4.3](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_4_3jp.pdf) (2018年4月30日)
+- [The Tangle ver.1.4.2](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_4_2jp.pdf) (2018年2月9日)
+- [The Tangle ver.1.4.1](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_4_1jp.pdf) (2017年11月27日)
+- [The Tangle ver.1.4](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_4jp.pdf) (2017年10月25日)
+- [The Tangle ver.1.3](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_3jp.pdf) (2017年10月1日)
+- [The Tangle ver.1.2](https://github.com/solareenlo/iota-wp-jp/blob/master/wp-jp/iota1_2jp.pdf) (2017年8月22日)
 - The Tangle ver.1.1 (2017年8月11日)
 - The Tangle ver.0.6 (2016年4月3日)
 
